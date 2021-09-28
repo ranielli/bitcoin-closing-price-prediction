@@ -27,3 +27,4 @@ Three regression models, available in the Scikit-Learn library, were evaluated, 
 ---
 
 Projeto desenvolvido para  o primeiro módulo do curso de Especialização em Inteligência Artifical Aplicada, semestre 2021/1, do Instituto Federal de Goiás - Câmpus Goiânia.
+Realizado em conjunto por Mim - [Rânielli ](https://github.com/ranielli) 💻 -e-  [Danielli ](https://github.com/daniellealmeidagms) - e Thiago Sandoval
